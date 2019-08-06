@@ -1,12 +1,17 @@
 {
   "name": "calling-codes",
   "version": "1.0.0",
-  "description": "",
+  "description": "A list of international calling codes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["country codes", "calling codes"],
+  "author": "Anth Winter",
+  "license": "ISC",
+  "homepage": "https://github.com/anthw/calling-codes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthw/calling-codes.git"
+  }
 }
