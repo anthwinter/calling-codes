@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     country: 'Afghanistan',
     calling_code: '93',
